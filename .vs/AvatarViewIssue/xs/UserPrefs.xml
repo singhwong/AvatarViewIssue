@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{78492548-4636-4FA5-B585-979C1B28DDC1}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5958C0A0-E4CD-4C09-AB89-25FB40D80641" />
+  <MonoDevelop.Ide.ItemProperties.AvatarViewIssue PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5958C0A0-E4CD-4C09-AB89-25FB40D80641" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainPage.xaml">
+    <Files>
+      <File FileName="MainPage.xaml" Line="40" Column="36" />
+      <File FileName="MainVM.cs" Line="12" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AvatarViewIssue" expanded="True">
+            <Node name="AvatarViewIssue" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
